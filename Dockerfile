@@ -1,4 +1,4 @@
-FROM node:13
+FROM node:16.11
 
 RUN mkdir -p /home/container
 WORKDIR /home/container
