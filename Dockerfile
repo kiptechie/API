@@ -1,4 +1,4 @@
-FROM node:16.14-bullseye-slim
+FROM node:lts-bullseye-slim
 
 RUN mkdir -p /home/container
 WORKDIR /home/container
