@@ -27,7 +27,7 @@
     "axios": "^0.19.2",
     "cheerio": "^0.22.0",
     "cors": "^2.8.5",
-    "csvtojson": "^2.0.10",
+    "csvtojson": "^2.0.13",
     "express": "^4.16.3",
     "ioredis": "*",
     "swagger-ui-express": "^4.1.4"
